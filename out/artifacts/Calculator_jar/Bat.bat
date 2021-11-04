@@ -1,0 +1,1 @@
+java -jar D:\IdeaProjects\Calculator\out\artifacts\Calculator_jar\Calculator.jar
